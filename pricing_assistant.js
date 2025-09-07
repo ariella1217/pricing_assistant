@@ -2,7 +2,7 @@
 
 // Code goes here
 
-let productname = "soda"
+const productname = "soda"
 
 let costPerUnit = 1.00
 let basePrice = 3.00
